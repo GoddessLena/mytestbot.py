@@ -1,0 +1,2 @@
+# mytestbot.py
+This is a bot that is solely made by me to test out Hikari Lightbulb. I'm trying to make a Discord bot that can use slash commands. Originally I made a bot using discord.py, however for some reason the codes just stopped working. And I figured that moving on to slash commands would be a better course, because Discord is forcing developers to start using slash commands. Any inquiries, please consider texting me at Beishtd0u#8165. Also, my bot token has already been reset, so feel free to try using it :) That's it from me, have a good day!
